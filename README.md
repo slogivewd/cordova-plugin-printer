@@ -204,7 +204,7 @@ cordova.plugins.printer.print("Es flattert um die Quelle\nDie wechselnde Libelle
 
 The result will look like this for iOS:
 
-![ttt](https://github.com/katzer/cordova-plugin-printer/blob/example/images/sample.png)
+![ttt](https://github.com/slogivewd/cordova-plugin-printer/blob/example/images/sample.png)
 
 ## Installation
 
@@ -223,7 +223,7 @@ cordova plugin add cordova-plugin-printer@VERSION
 Or install the latest head version:
 
 ```bash
-cordova plugin add https://github.com/katzer/cordova-plugin-printer.git
+cordova plugin add https://github.com/slogivewd/cordova-plugin-printer.git
 ```
 
 Or install from local source:
